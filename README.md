@@ -38,22 +38,22 @@ The project follows a typical modern data warehouse architecture:
 Develop a modern data warehouse using SQL Server to consolidate sales data and enable analytical reporting and business decision-making.
 
 #### 📌 Specifications
-  Data Sources
+  1.Data Sources
    - Import data from two operational systems:
         ERP System
         CRM System
    - Data is provided as CSV files
-  Data Quality
+  2.Data Quality
     - Perform data cleaning
     - Handle missing values
     - Resolve data inconsistencies
-  Data Integration
+  3.Data Integration
     - Combine ERP and CRM datasets
     - Build a single analytical data model
-  Scope
+  4.Scope
     - Focus only on the latest dataset
     - Historical tracking is not required
-  Documentation
+  5.Documentation
     - Provide clear documentation of the data model and transformations
 
 ---
@@ -64,13 +64,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data and e
 Develop SQL-based analytical queries to generate business insights.
 
 #### 📈 Key Analytical Areas
-  Customer Behavior
+  1.Customer Behavior
     - Customer purchase patterns
     - Customer segmentation
-  Product Performance
+  2.Product Performance
     - Best-selling products
     - Revenue contribution by product
-  Sales Trends
+  3.Sales Trends
     - Monthly sales analysis
     - Growth patterns
   These insights support data-driven strategic decision making.
@@ -78,17 +78,17 @@ Develop SQL-based analytical queries to generate business insights.
 ---
 
 ## 🚀 Skills Demonstrated:
-   Data Warehouse Design
-   Data Modeling
-   ETL Concepts
-   SQL Analytics
-   Business Intelligence
-   Data Cleaning
-   Data Integration
+   1.Data Warehouse Design
+   2.Data Modeling
+   3.ETL Concepts
+   4.SQL Analytics
+   5.Business Intelligence
+   6.Data Cleaning
+   7.Data Integration
 
 ## 📄 License
-   This project is licensed under the MIT License.
-   You are free to use, modify, and distribute this project with proper attribution.
+   - This project is licensed under the MIT License.
+   - You are free to use, modify, and distribute this project with proper attribution.
 
 ## ❄️ About Me
   Hi! I'm Ankitha M, an Engineering student in the Computer Science branch with a strong interest in :
