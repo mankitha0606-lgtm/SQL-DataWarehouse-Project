@@ -38,22 +38,22 @@ The project follows a typical modern data warehouse architecture:
 Develop a modern data warehouse using SQL Server to consolidate sales data and enable analytical reporting and business decision-making.
 
 #### 📌 Specifications
-  1.Data Sources
+  ##### 1.Data Sources
    - Import data from two operational systems:
         ERP System
         CRM System
    - Data is provided as CSV files
-  2.Data Quality
+  ##### 2.Data Quality
     - Perform data cleaning
     - Handle missing values
     - Resolve data inconsistencies
-  3.Data Integration
+  ##### 3.Data Integration
     - Combine ERP and CRM datasets
     - Build a single analytical data model
-  4.Scope
+  ##### 4.Scope
     - Focus only on the latest dataset
     - Historical tracking is not required
-  5.Documentation
+  ##### 5.Documentation
     - Provide clear documentation of the data model and transformations
 
 ---
@@ -64,13 +64,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data and e
 Develop SQL-based analytical queries to generate business insights.
 
 #### 📈 Key Analytical Areas
-  1.Customer Behavior
+  ##### 1.Customer Behavior
     - Customer purchase patterns
     - Customer segmentation
-  2.Product Performance
+  ##### 2.Product Performance
     - Best-selling products
     - Revenue contribution by product
-  3.Sales Trends
+  ##### 3.Sales Trends
     - Monthly sales analysis
     - Growth patterns
   These insights support data-driven strategic decision making.
