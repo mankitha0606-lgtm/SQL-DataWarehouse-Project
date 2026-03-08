@@ -78,13 +78,13 @@ Develop SQL-based analytical queries to generate business insights.
 ---
 
 ## 🚀 Skills Demonstrated:
-   1.Data Warehouse Design
-   2.Data Modeling
-   3.ETL Concepts
-   4.SQL Analytics
-   5.Business Intelligence
-   6.Data Cleaning
-   7.Data Integration
+   ##### 1.Data Warehouse Design
+   ##### 2.Data Modeling
+   ##### 3.ETL Concepts
+   ##### 4.SQL Analytics
+   ##### 5.Business Intelligence
+   ##### 6.Data Cleaning
+   ##### 7.Data Integration
 
 ## 📄 License
    - This project is licensed under the MIT License.
